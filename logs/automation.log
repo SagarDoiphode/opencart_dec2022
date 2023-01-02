@@ -1,0 +1,6 @@
+17:45:01.584 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***TC_001_AccountRegistrationTest has started********** 
+17:45:01.629 [main] INFO  testCases.TC_001_AccountRegistrationTest - User 
+17:47:24.290 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***TC_001_AccountRegistrationTest has started********** 
+17:47:24.332 [main] INFO  testCases.TC_001_AccountRegistrationTest - User is clicking on the Account
+17:47:24.612 [main] INFO  testCases.TC_001_AccountRegistrationTest - User is clicking on the Register
+17:47:25.263 [main] INFO  testCases.TC_001_AccountRegistrationTest - User moved to Registration Page
