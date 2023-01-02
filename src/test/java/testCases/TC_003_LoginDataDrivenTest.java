@@ -13,7 +13,7 @@ public class TC_003_LoginDataDrivenTest extends BaseClass {
 	@Test(dataProvider = "LoginData", dataProviderClass = DataProviders.class, groups = {"datadriven"})
 	public void Test_Login(String uid, String pwd, String exp) {
 		logger.info("Starting TC_003_LoginDataDrivenTest");
-
+		logger.info("Starting TC_003_LoginDataDrivenTest");
 		logger.info("*** Landed to HomePage ****");
 		// Login Page
 		HomePage hp = new HomePage(driver);
